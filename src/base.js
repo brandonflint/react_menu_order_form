@@ -1,7 +1,7 @@
 import Rebase from 're-base';
 
 const base = Rebase.createClass({
-  apiKey: "AIzaSyC2E-eQ3rgiXGjYpacpsGixulI_UxImxus",
+  apiKey: "",
   authDomain: "catch-of-the-day-bflint.firebaseapp.com",
   databaseURL: "https://catch-of-the-day-bflint.firebaseio.com"
 });
